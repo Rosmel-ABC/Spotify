@@ -45,4 +45,7 @@ Aquí comparto mi playlist de Spotify para que disfrutemos juntos: [Mi Playlist 
 Espero que disfruten explorando este proyecto tanto como yo disfruté creándolo. ¡Que la música siga iluminando nuestras vidas!
 
 ---
-![Análisis de Canciones en Spotify](https://github.com/Rosmel-ABC/Spotify/blob/main/SPOTIFY%20PROJECT.png)
+Click en la imagen para ver el Dashboard.
+---
+[![Análisis de Canciones en Spotify](https://github.com/Rosmel-ABC/Spotify/blob/main/SPOTIFY%20PROJECT.png)](https://app.powerbi.com/view?r=eyJrIjoiNDM0Y2UzNzQtNTczYi00OTkyLWIwZjgtNzU1NWFhOGFlZTI1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
